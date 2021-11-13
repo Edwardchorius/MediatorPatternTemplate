@@ -1,0 +1,13 @@
+C:\Programming\Learning\DesignPatterns\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.exe
+C:\Programming\Learning\DesignPatterns\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.deps.json
+C:\Programming\Learning\DesignPatterns\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.runtimeconfig.json
+C:\Programming\Learning\DesignPatterns\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.runtimeconfig.dev.json
+C:\Programming\Learning\DesignPatterns\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.dll
+C:\Programming\Learning\DesignPatterns\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.pdb
+C:\Programming\Learning\DesignPatterns\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.csprojAssemblyReference.cache
+C:\Programming\Learning\DesignPatterns\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.csproj.CoreCompileInputs.cache
+C:\Programming\Learning\DesignPatterns\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.AssemblyInfoInputs.cache
+C:\Programming\Learning\DesignPatterns\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.AssemblyInfo.cs
+C:\Programming\Learning\DesignPatterns\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.dll
+C:\Programming\Learning\DesignPatterns\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.pdb
+C:\Programming\Learning\DesignPatterns\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.genruntimeconfig.cache
